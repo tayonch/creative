@@ -1,0 +1,150 @@
+/* // Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+/* banner section start */
+.bannertext {
+    padding-top: 100px;
+    padding-bottom: 20px;
+}
+.bannertext p {
+   
+    width: 512px;
+}
+.bannerimg {
+    padding: 60px 0;
+}
+/* banner section end */
+/* service star */
+.servicetext {
+    margin-top: 50px;
+}
+
+.servicetext h3 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #181818;
+    text-align: center;
+
+}
+
+.servicetext p {
+   
+    width: 500px;
+    margin-left: -10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+
+}
+.scardbottom {
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+.card-body {
+    margin-left: 30px;
+    margin-bottom: 30px;
+
+}
+.card{
+    margin-top: 25px;
+}
+/* service end */
+/* portfilio section start */
+.portfoliotext h3 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #181818;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.portfoliotext p {
+    line-height: 27px;
+    color: rgba(24, 24, 24, 0.705);
+    width: 500px;
+  margin-left: -10px;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 25px;
+
+}
+.portimg{
+   margin-top: 25px;
+}
+.portbtm{
+    margin-top: 25px;
+}
+/* portfilio section end */
+/* member style start */
+.membertext p {
+
+    width: 500px;
+    margin-left: -10px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.membercard {
+    margin-top: 25px;
+}
+/* member style end */
+/* footer style start */
+.footleft p{
+ width: 100px;
+ margin:7px 0px;
+       line-height: 27px;
+    color: rgba(24, 24, 24, 0.705);
+}
+#fotter{
+    background-color: rgba(89, 86, 232, 0.103);
+    margin-top:50px
+}
+.footsecond{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footleft{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.footsecond h3{
+    
+  font-size: 20px;
+    font-weight: 700;
+    color: #181818;
+    text-align: center;
+
+   
+}
+.footsecond p{
+      line-height: 27px;
+    color: rgba(24, 24, 24, 0.705);
+    margin-top: 7px;
+  
+    
+
+    
+
+}
+/* footer style end */
+
+
+
+
+
+
+
+
+
+ }
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) { }
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {  }
+
+/* // Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.98px) {  }
+
